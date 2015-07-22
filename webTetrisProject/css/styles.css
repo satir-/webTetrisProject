@@ -1,0 +1,17 @@
+*
+body
+{
+	margin: 5px;
+	padding: 1px;
+    background-color: #cccccc;
+    background-image: url(../res/background_2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+canvas 
+{
+    border: 1px solid #000000;
+    display: block;
+    margin: 0 auto 0 auto;
+}
